@@ -1,0 +1,42 @@
+﻿NOTICE: The imaging operation was cancelled!  This image is incomplete!
+
+Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: DF001
+Evidence Number: 001 
+Unique description: Adimin System
+Examiner: Lavanya Pooja
+Notes: Operation Midnight Leak
+
+--------------------------------------------------------------
+
+Information for E:\adimin_system_image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 104,853,504
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 51198 MB
+ Sector count:    104853504
+[Computed Hashes]
+ MD5 checksum:    3d833ce4469bb24d425ce56661eca0bb
+ SHA1 checksum:   a2bdbd2b043281f79da0edbd118e7fef2351e28e
+
+Image Information:
+ Acquisition started:   Sat Apr  4 18:41:11 2026
+ Acquisition finished:  Sat Apr  4 19:32:15 2026
+ Segment list:
+  E:\adimin_system_image.E01
+  E:\adimin_system_image.E02
+  E:\adimin_system_image.E03
+  E:\adimin_system_image.E04
+  E:\adimin_system_image.E05
+  E:\adimin_system_image.E06
+  E:\adimin_system_image.E07
+  E:\adimin_system_image.E08
